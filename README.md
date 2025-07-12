@@ -42,6 +42,8 @@ A simple web application built with **Python**, **Scikit-learn**, and **Gradio**
 ###  1. Clone the Repository
 
 git clone https://github.com/zkcode29/Mnist-digit-recognizer.git
+
+
 cd Mnist-digit-recognizer
 
 
